@@ -45,3 +45,9 @@
 | `style.css`  | 디자인·파티 테마 |
 | `data.js`    | 초대·대답·장소·시간 문장, 단어 뜻, 세트 만들기 데이터 |
 | `app.js`     | 음성·단어 풍선·세트 만들기·세트 연습(역할극) 채점 로직 |
+
+---
+
+## 📚 다른 단원
+
+- [What's your favorite subject? · 좋아하는 과목과 잘하는 것 말하기](favorite-subject/index.html) — `favorite-subject/` 폴더
