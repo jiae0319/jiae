@@ -4,7 +4,7 @@
 
 1. Canva → **Magic Media(텍스트로 이미지 만들기)** 에서 아래 프롬프트를 붙여 넣고 이미지를 생성합니다. (권장 비율 **가로형 3:2**, 예: 600×400)
 2. **PNG**로 다운로드한 뒤 표의 파일명 그대로 이름을 바꿉니다.
-3. `favorite-subject/images/subjects/` 또는 `favorite-subject/images/abilities/` 폴더에 넣고 커밋하면 끝!
+3. `images/subjects/` 또는 `images/abilities/` 폴더에 넣고 커밋하면 끝!
 
 > 모든 프롬프트 끝에 공통 스타일을 붙이면 그림체가 통일됩니다:
 > `bright flat illustration for elementary school, white background, no text`
