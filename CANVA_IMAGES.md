@@ -38,3 +38,21 @@
 | 피아노 치기 (playing the piano) | `playing-the-piano.png` | a cute cartoon kid playing the piano, bright flat illustration for elementary school, white background, no text |
 | 이야기 쓰기 (writing stories) | `writing-stories.png` | a cute cartoon kid writing a story in a notebook, bright flat illustration for elementary school, white background, no text |
 | 퍼즐 풀기 (solving puzzles) | `solving-puzzles.png` | a cute cartoon kid solving a jigsaw puzzle, bright flat illustration for elementary school, white background, no text |
+
+## ✅ 현재 들어간 이미지 (Canva Magic Media로 생성)
+
+위 프롬프트로 Canva에서 만든 20장이 이미 `images/` 폴더에 들어 있습니다. 모두 Canva 계정의 **업로드 항목**에 저장되어 있으며(원본 1536×1024), 앱에는 미리보기 크기(200×133)로 들어가 있습니다.
+더 선명하게 바꾸려면 Canva에서 원본을 PNG로 내려받아 같은 파일명으로 덮어쓰면 됩니다.
+
+| 파일 | Canva 미디어 ID | 파일 | Canva 미디어 ID |
+|---|---|---|---|
+| subjects/korean.png | MAHalhZiyP8 | abilities/singing.png | MAHaluUJLT0 |
+| subjects/english.png | MAHaltHw9rk | abilities/dancing.png | MAHallo7DDU |
+| subjects/math.png | MAHalkdXmA8 | abilities/drawing.png | MAHaltV9m4Q |
+| subjects/science.png | MAHaluLbRbA | abilities/running.png | MAHalsBK9c4 |
+| subjects/social-studies.png | MAHalhPy8Ek | abilities/swimming.png | MAHalvVrT5k |
+| subjects/history.png | MAHalv4GJk0 | abilities/cooking.png | MAHalk219q4 |
+| subjects/music.png | MAHalqgm9P4 | abilities/playing-soccer.png | MAHalttfqA0 |
+| subjects/art.png | MAHalrNXGj8 | abilities/playing-the-piano.png | MAHaltTm3cI |
+| subjects/pe.png | MAHals8dVkg | abilities/writing-stories.png | MAHalrSfrww |
+| subjects/practical-arts.png | MAHalqNXk3A | abilities/solving-puzzles.png | MAHalnjjNTs |
